@@ -1,0 +1,19 @@
+══════════════════════════════════════════════════════
+                FLUXO DE TRABALHO COMPLETO
+══════════════════════════════════════════════════════
+
+🔹 PASSO 1 — PLANEJAMENTO → Figma
+Antes de programar, desenhamos e criamos o layout.
+Assim todos sabem como o resultado final deve parecer.
+
+🔹 PASSO 2 — DESENVOLVIMENTO → VS Code
+Com o layout pronto, escrevemos o código (HTML, CSS, etc.)
+Aqui transformamos o desenho em uma página que funciona.
+
+🔹 PASSO 3 — SALVAR E COMPARTILHAR → Git + GitHub
+Guardamos o projeto na nuvem, com histórico de todas as
+alterações. Assim o grupo trabalha junto sem perder nada.
+
+══════════════════════════════════════════════════════
+Resumo:  Figma → VS Code → Git/GitHub
+══════════════════════════════════════════════════════
