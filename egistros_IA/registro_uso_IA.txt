@@ -1,0 +1,40 @@
+╔══════════════════════════════════════════════════════════════╗
+║                REGISTRO DE USO DE INTELIGÊNCIA ARTIFICIAL     ║
+║                    Trabalho: Comparação de Ferramentas        ║
+║                  Prof. José Pedro Miranda — 2026.2            ║
+╚══════════════════════════════════════════════════════════════╝
+
+▸ Ferramenta Utilizada:
+    Dola — Assistente com Inteligência Artificial
+
+▸ Finalidade do Uso:
+    • Estruturar e organizar o trabalho conforme solicitado
+      pelo professor
+    • Redigir e formatar o conteúdo de forma clara e coesa
+    • Criar o exemplo prático funcional em HTML
+    • Elaborar a tabela de comparação e a justificativa
+    • Dividir as tarefas de apresentação entre os 3 alunos
+    • Orientar sobre como organizar e subir os arquivos no GitHub
+
+▸ Prompt Principal:
+    "Me ajude com esse trabalho: comparar 3 ferramentas diferentes,
+    justificar classificação, apresentar exemplo prático, organizar
+    repositório com README, fontes, artefatos e instruções.
+    Divida o conteúdo para 3 alunos apresentarem em sala."
+
+▸ Partes do trabalho com assistência de IA:
+    ✅ Estrutura do repositório
+    ✅ Conteúdo e formatação do README.md
+    ✅ Tabela de comparação e justificativa
+    ✅ Código do exemplo prático (HTML)
+    ✅ Divisão da apresentação por aluno
+    ✅ Guia passo a passo para publicação no GitHub
+
+▸ Revisão, Validação e Responsabilidade:
+    Todo o conteúdo fornecido pela IA foi revisado, compreendido,
+    adaptado e validado pelos integrantes do grupo antes da entrega.
+    O exemplo prático foi executado e testado. A classificação final,
+    as justificativas e as conclusões foram discutidas e aprovadas
+    por todos os alunos. Assumimos total responsabilidade pelo trabalho.
+
+
